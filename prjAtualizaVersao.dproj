@@ -87,7 +87,7 @@
         <DCC_DcuOutput>.\Unit\DCU</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <VerInfo_Keys>CompanyName=Projeletric;FileDescription=$(MSBuildProjectName);FileVersion=2.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=$(MSBuildProjectName);ProductVersion=1.0.0.0;Comments=Sistema para Atualizar as versões e executar a carga no DW</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Data7 Soluções em Tecnologia e Inovação;FileDescription=$(MSBuildProjectName);FileVersion=2.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=$(MSBuildProjectName);ProductVersion=1.0.0.0;Comments=Sistema para atualizar as versões</VerInfo_Keys>
         <VerInfo_MajorVer>2</VerInfo_MajorVer>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
