@@ -16,4 +16,5 @@ Sistema que Atualiza o servidor com um novo executável criando um histórico de
 
 
 ## Autor
-Tales F. Ferreira
+
+<img src="https://avatars.githubusercontent.com/u/8249671?s=40&amp;v=4"><br>Tales F. Ferreira
